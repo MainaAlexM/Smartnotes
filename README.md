@@ -10,6 +10,7 @@
   - Delete a note
 
 ## Viewing the Notes
+
 - A logged-in user can only see their notes. The notes are not visible publicly.
 
 ## Installation
