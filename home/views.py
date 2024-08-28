@@ -42,3 +42,13 @@ class AboutView(TemplateView):
 class AuthorizedView(LoginRequiredMixin, TemplateView):
     template_name = 'home/authorized.html'
     login_url = '/admin'
+    
+    
+    
+    
+    
+    # tax
+    # Id correct name, age, location, address
+    # request from gov
+    # approve
+    # Not approve
